@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.f776d121.css",
+    "main.js": "/portfolio-website/static/js/main.86bfccfa.js",
+    "static/js/453.aac68abc.chunk.js": "/portfolio-website/static/js/453.aac68abc.chunk.js",
+    "static/media/Mikloši Danijel Resume.pdf": "/portfolio-website/static/media/Mikloši Danijel Resume.94c2a62f9c27d2a3132a.pdf",
+    "index.html": "/portfolio-website/index.html",
+    "main.f776d121.css.map": "/portfolio-website/static/css/main.f776d121.css.map",
+    "main.86bfccfa.js.map": "/portfolio-website/static/js/main.86bfccfa.js.map",
+    "453.aac68abc.chunk.js.map": "/portfolio-website/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f776d121.css",
+    "static/js/main.86bfccfa.js"
+  ]
+}
