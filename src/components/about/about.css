@@ -1,0 +1,30 @@
+
+.about__content p {
+    margin: 2rem 2rem 0rem;
+    color: var(--color-light);
+    text-align: center;
+}
+.about__content a {
+    display: block;
+    margin: 0 auto;
+    width: 110px;
+}
+
+/* ======================== media queries (medium devices) ===============================*/
+@media screen and (max-width: 1024px) {
+        .about__content p{
+            margin: 1rem 8rem 2rem;
+        }
+        .about__content a{
+            margin: 0rem 22rem 0rem;
+        }
+}
+/* ======================== media queries (small devices) ===============================*/
+@media screen and (max-width: 600px) {
+    .about__content p{
+        margin: 2rem 2rem 0rem;
+    }
+    .about__content a{
+        margin: 0rem 9rem 0rem;
+    }
+}
