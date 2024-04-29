@@ -5,6 +5,7 @@ import HeaderSocials from './HeaderSocials'
 
 const Header = () => {
   return (
+    <section id='home'>
     <header>
       <div className="container header__container">
         <h5>Hello I'm</h5>
@@ -18,6 +19,7 @@ const Header = () => {
         <a href='#contact' className='scroll__down'>Scroll Down</a>
       </div>
     </header>
+    </section>
   )
 }
 
