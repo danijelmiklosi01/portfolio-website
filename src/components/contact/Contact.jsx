@@ -44,12 +44,6 @@ const Contact = () => {
             <h5>Danijel Mikloši</h5>
             <a href="https://www.linkedin.com/in/danijel-mikloši-1b9277231/"  target="_blank" rel="noreferrer">Send a message</a>
           </article>
-          <article className="contact__option">
-            <FaWhatsapp className='contact__option-icon'/>
-            <h4>WhatsApp</h4>
-            <h5>+381 XX XXXXXX</h5>
-            <a href="https://api.whatsapp.com/send?phone=381666390709" target="_blank" rel="noreferrer">Send a message</a>
-          </article>
         </div>
         {/* end of contact options */}
         <form ref={form} onSubmit={sendEmail}>
