@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio-website/static/css/main.f776d121.css",
-    "main.js": "/portfolio-website/static/js/main.20706f4a.js",
+    "main.js": "/portfolio-website/static/js/main.dd58dcd6.js",
     "static/js/453.aac68abc.chunk.js": "/portfolio-website/static/js/453.aac68abc.chunk.js",
-    "static/media/Mikloši Danijel Resume.pdf": "/portfolio-website/static/media/Mikloši Danijel Resume.fee1c0885e46725b35da.pdf",
+    "static/media/Mikloši Danijel Resume.pdf": "/portfolio-website/static/media/Mikloši Danijel Resume.374c03b68168031e1896.pdf",
     "index.html": "/portfolio-website/index.html",
     "main.f776d121.css.map": "/portfolio-website/static/css/main.f776d121.css.map",
-    "main.20706f4a.js.map": "/portfolio-website/static/js/main.20706f4a.js.map",
+    "main.dd58dcd6.js.map": "/portfolio-website/static/js/main.dd58dcd6.js.map",
     "453.aac68abc.chunk.js.map": "/portfolio-website/static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f776d121.css",
-    "static/js/main.20706f4a.js"
+    "static/js/main.dd58dcd6.js"
   ]
 }
